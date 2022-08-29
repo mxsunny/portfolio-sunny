@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I'm Sunny <br />
-        I am a Computer science engineering student at MAEER's MIT College of Railway Engineering and Research. I'm also a self-taught person.focused on constantly learning new things and expanding my abilities. I'm very passionate about creating things related to technology and art. Most recently I've been focused on honing my full-stack development skills using React/Next JS and Node JS to build maintainable, scalable, and responsive web applications. <br />
+        I am a Computer science engineering student at MAEER's MIT College of Railway Engineering and Research. I'm also a self-taught person, focused on constantly learning new things and expanding my abilities. I'm very passionate about creating things related to technology and art. Most recently I've been focused on honing my full-stack development skills using React/Next JS and Node JS to build maintainable, scalable, and responsive web applications. <br />
         Feel free to contact me. <br />
         Thanks for visiting!
       </SectionText>
