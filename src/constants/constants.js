@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Completed 10th with 75.60% Maharashtra State Board of Secondary and Higher Secondary Education, Pune', },
-  { year: 2018, text: 'Diploma in Electronics and Telecommunications' <br/> 'with Aggregate 73.82% MSBTE Board', },
-  { year: 2021, text: 'BE in Computer Science' <br/>'Graduated with 8.76 cgpa from MAEERs MIT College of Railway Engineering and Research', },
+  { year: 2015, text: 'Completed 10th with 75.60%', },
+  { year: 2018, text: 'Diploma in Electronics and Telecommunications with Aggregate 73.82% MSBTE Boards', },
+  { year: 2021, text: 'BE in Computer Science Graduated with 8.76 cgpa from MAEERs MIT College of Railway Engineering and Research', },
 ];
