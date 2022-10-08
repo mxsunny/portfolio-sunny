@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Golds Gym App',
-    description: "This website is powerd by React + Rapid API for fetching the individual exercise and animated demonstrations data in the application. and for the server side logic, I use NextJs built in SSR",
+    description: "This website is powerd by React + Rapid API for fetching the individual exercise and animated demonstrations data in the application.",
     image: '/images/4.png',
     tags: ['React', 'Material-ui', 'Rapid-api'],
     source: 'https://reactjs-goldsgym.netlify.app/',
