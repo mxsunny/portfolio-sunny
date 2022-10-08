@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'E-Commerce fashion',
-    description: "This website is powerd by NextJs + React + PayTM integration + MongoDB for storing the data. and for the server side logic, I use NextJs built in SSR",
+    description: "This website is powerd by NextJs + React + PayTM integration + MongoDB, An e-commerce store of clothing brand where people can purchase geek tshirts, hoodies, and apparel",
     image: '/images/1.png',
     tags: ['Nextjs', 'MongoDB', 'PayTM payment gateway'],
     source: 'https://github.com/mxsunny/ecomm-lancome',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce consumer electronics',
-    description: "This website is powerd by NextJs + React + Stripe integration + Sanity for storing the data in a sanity studio. and for the server side logic, I use NextJs built in SSR",
+    description: "This website is powerd by NextJs + React + Stripe integration + Sanity, A fully responsive and contemporary e-commerce application of consumer electronics with real payment integration. where people can find headphones, speakers, watches, etc.",
     image: '/images/2.png',
     tags: ['Nextjs', 'Sanity studio', 'Stripe payments'],
     source: 'https://ecomm-boat.vercel.app/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Realtor App',
-    description: "This website is powerd by NextJs + React + Rapid API for fetching the real estate UAE data in the application. and for the server side logic, I use NextJs built in SSR",
+    description: "This website is powerd by NextJs + React + Rapid API, A responsive application built for buying and renting properties in UAE with all property details.",
     image: '/images/3.png',
     tags: ['Nextjs', 'Rapid-api', 'Chakra-ui-react'],
     source: 'https://nextjs-realestate-mxsunny.vercel.app/',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Golds Gym App',
-    description: "This website is powerd by React + Rapid API for fetching the individual exercise and animated demonstrations data in the application.",
+    description: "This website is powerd by React + Rapid API, A modern react application of fitness exercises built with functionality to choose an exercise from categories and specific muscle groups with practical examples using animations and videos.",
     image: '/images/4.png',
     tags: ['React', 'Material-ui', 'Rapid-api'],
     source: 'https://reactjs-goldsgym.netlify.app/',
