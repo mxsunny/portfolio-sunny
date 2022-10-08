@@ -20,8 +20,12 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
+            HTML <br />
+            CSS <br />
+            JS <br />
             React <br />
-            Next JS <br />
+            Bootstrap <br />
+            Nextjs <br />
             Tailwind CSS
           </ListParagraph>
         </ListContainer>
@@ -34,11 +38,11 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node JS and Databases <br />
-            Next JS SSR <br />
-            Sanity IO <br />
-            Rapid API <br />
-            MongoDB
+            Nodejs <br />
+            MongoDB <br />
+            MySQL <br />
+            Sanity io <br />
+            Rapid API
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -50,9 +54,11 @@ const Technologies = () => (
           <ListTitle>Others</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Git <br />
-            Netlify <br />
-            Vercel
+            C++ <br />
+            Python <br />
+            Git <br />
+            Github <br />
+            Visual studio code <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
