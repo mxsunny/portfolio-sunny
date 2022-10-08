@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           Hi,<br />
           I'm Sunny <br />
-          I am a Computer science engineer focused on constantly learning new things and expanding my abilities. Most recently I've been focused on honing my full-stack development skills using React/Next JS and Node JS to build maintainable, scalable, and responsive web applications. <br />
+          A passionate self-taught full stack web developer and software developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <br />
           Thanks for visiting!
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
